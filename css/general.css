@@ -1,0 +1,52 @@
+html {
+    font-family: Arial, Helvetica, sans-serif;
+    border-left: 5px dotted #666666;
+    border-top:  5px dotted #666666;
+    border-right:  5px dotted #666666;
+    border-bottom: 5px dotted #666666;
+}
+
+body {
+    background-color: #ccffff;
+}
+
+h1 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: lighter;
+    font-size: 3rem; /* 1rem = 16px */
+}
+
+ol {
+    font-weight: Bold;
+}
+
+h2 {
+    color: #666666;
+    font-size: 1.75rem;
+}
+
+strong {
+    font-weight: bold;
+    color: #000000;
+}
+
+em {
+    font-style: italic;
+    color: #000000;
+}
+
+h2 {
+    background-color: #ffffff
+}
+
+ol,
+p {
+    line-height: 1.25rem;
+    color: #666666
+}
+
+
+
+
+
+
